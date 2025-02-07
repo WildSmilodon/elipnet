@@ -1,4 +1,4 @@
-# Elpinet
+# Elipnet
 
  
 Raw data to train a neural network for evaluating the resulting force dyad exerted on a soft ellipsoidal particle 
